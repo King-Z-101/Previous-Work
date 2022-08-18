@@ -1,0 +1,16 @@
+1.  What is the difference between Data Analytics and Data Science?
+Data Analytics focuses on analyzing data to answer specific questions. It can be considered as a subset of
+Data Science, which may include data mining, machine learning, and other related disciplines.
+
+2.  Explain how 2-dimensional data is processed by Python
+2-dimensional data is stored in Python in a grid format similar to how data is stored on a spreadsheet.
+The data in these multidimensional arrays must be of the same data type and indexed by a tuple of non-negative integers.
+
+3.  What skill sets are needed to become a Data Analyst?
+To be a Data Analyst, you need to be good at mathematics, understand how to use programming languages like Python and
+SQL, and have a good analytical mindset.
+
+4.  Name at least two packages that are likely to be used with a Data Analytics and explain why they are useful.
+The NumPy package is useful because it helps to create homogeneous multidimensional arrays,
+which are a table of elements, all of the same data type, indexed by a tuple of non-negative integers.
+MatPlotLib is also useful because it helps present data in a  visual format for people to use.
